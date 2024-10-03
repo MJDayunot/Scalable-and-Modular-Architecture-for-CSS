@@ -1,0 +1,6 @@
+.layout-footer {
+  background-color: #333;      /* Footer background color */
+  color: white;                /* Footer text color */
+  padding: 1rem;               /* Padding around the footer */
+  text-align: center;          /* Centered text */
+}

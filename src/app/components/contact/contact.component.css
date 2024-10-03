@@ -1,0 +1,6 @@
+.module-card {
+  border: 1px solid #ddd;      /* Light gray border */
+  padding: 1rem;               /* Padding inside the card */
+  border-radius: 5px;         /* Rounded corners */
+  margin: 1rem 0;             /* Margin between cards */
+}
